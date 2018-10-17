@@ -1,3 +1,4 @@
+package Dice;
 import java.util.*;
 
 public class Dice{
