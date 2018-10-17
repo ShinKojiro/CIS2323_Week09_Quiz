@@ -9,7 +9,7 @@ public class Play{
 		Scanner iDevice = new Scanner(System.in);
 		char select = 'z';
 		
-		while(select != 'd'){
+		while(select != 'd' && select != 'D'){
 			System.out.println("**************************\n" + 
 			"What do you want to do?\n" +
 			"A) Roll for Player one\n" +
